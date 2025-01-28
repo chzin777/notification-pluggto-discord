@@ -1,0 +1,23 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "API PLUGG.TO",
+    "version": "unknown"
+  },
+  "servers": [
+    {
+      "url": "https://api.plugg.to"
+    }
+  ],
+  "components": {
+    "securitySchemes": {}
+  },
+  "security": [
+    {}
+  ],
+  "paths": {},
+  "x-readme": {
+    "headers": []
+  },
+  "x-readme-fauxas": true
+}
