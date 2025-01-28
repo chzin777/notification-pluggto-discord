@@ -137,7 +137,7 @@ ${produtosComprados}
             } catch (error) {
                 console.error('⚠️ Erro no monitoramento:', error.message);
             }
-        }, 600000); // 5 minutos (Altere para mudar o intervalo de tempo em que o script procura por novos pedidos)
+        }, 300000); // 5 minutos (Altere para mudar o intervalo de tempo em que o script procura por novos pedidos)
     } catch (error) {
         console.error('❌ Erro no fluxo principal:', error.message);
     }
