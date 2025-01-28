@@ -142,3 +142,5 @@ ${produtosComprados}
         console.error('❌ Erro no fluxo principal:', error.message);
     }
 })();
+
+//Criado por Christofer
