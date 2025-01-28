@@ -24,10 +24,10 @@ const PLUGG_API_AUTH_URL = 'https://api.plugg.to/oauth/token';
 const PLUGG_API_ORDERS_URL = `https://api.plugg.to/orders?created=${dateRange}`;
 const DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/seu_webhook';
 
-const CLIENT_ID = '181366be31932112d0be7ff9db942af4';
-const CLIENT_SECRET = '868b07a723fe7478203a470a9600baa4';
-const API_USER = '1666211092606';
-const API_PASSWORD = 'ZGFuaWxsby5zaWx2YUByM3N1cHJpbWVudG9zLmNvbS5icjAuNjAyNTM3NDIzMjQxMjE3MzE2NjYyMTEwOTI2MDY=';
+const CLIENT_ID = 'SEU CLIENT_ID';
+const CLIENT_SECRET = 'SUA CLIENT_SECRET';
+const API_USER = 'SEU API_USER';
+const API_PASSWORD = 'SUA API_PASSWORD';
 
 const notifiedOrders = new Set(); // 📌 Armazena pedidos já notificados (MAS SO ARMAZENA ENQUANTO O SCRIPT ESTÁ EM EXECUÇÃO)
 
